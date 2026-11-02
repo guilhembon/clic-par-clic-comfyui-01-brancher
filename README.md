@@ -101,7 +101,7 @@ image (new seed).
 
 - Next module: **The organization's workflow** (a style guide enforced in the workflow, the trap of
   the overwritten link) —
-  [`clic-par-clic-comfyui-02-workflow-organisation`](https://github.com/guilhem-/clic-par-clic-comfyui-02-workflow-organisation).
+  [`clic-par-clic-comfyui-02-workflow-organisation`](https://github.com/guilhembon/clic-par-clic-comfyui-02-workflow-organisation).
 - On the user's side: module "Image generation and editing" of the Open WebUI course.
 
 ## License
